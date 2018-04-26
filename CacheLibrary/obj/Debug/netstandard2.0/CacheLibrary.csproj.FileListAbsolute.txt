@@ -1,0 +1,8 @@
+/Users/kishanvarma/Projects/CacheLibrary/CacheLibrary/bin/Debug/netstandard2.0/CacheLibrary.deps.json
+/Users/kishanvarma/Projects/CacheLibrary/CacheLibrary/bin/Debug/netstandard2.0/CacheLibrary.dll
+/Users/kishanvarma/Projects/CacheLibrary/CacheLibrary/bin/Debug/netstandard2.0/CacheLibrary.pdb
+/Users/kishanvarma/Projects/CacheLibrary/CacheLibrary/obj/Debug/netstandard2.0/CacheLibrary.csproj.CoreCompileInputs.cache
+/Users/kishanvarma/Projects/CacheLibrary/CacheLibrary/obj/Debug/netstandard2.0/CacheLibrary.AssemblyInfoInputs.cache
+/Users/kishanvarma/Projects/CacheLibrary/CacheLibrary/obj/Debug/netstandard2.0/CacheLibrary.AssemblyInfo.cs
+/Users/kishanvarma/Projects/CacheLibrary/CacheLibrary/obj/Debug/netstandard2.0/CacheLibrary.dll
+/Users/kishanvarma/Projects/CacheLibrary/CacheLibrary/obj/Debug/netstandard2.0/CacheLibrary.pdb

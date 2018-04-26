@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{AD18768D-3B38-427F-9860-09C3FC69E76B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CacheTest/UnitTestUpdateValue.cs">
+    <Files>
+      <File FileName="CacheTest/UnitTestLRU.cs" Line="7" Column="6" />
+      <File FileName="CacheTest/UnitTestMRU.cs" Line="1" Column="1" />
+      <File FileName="CacheTest/UnitTestRW.cs" Line="1" Column="1" />
+      <File FileName="CacheTest/UnitTestSameSet.cs" Line="11" Column="64" />
+      <File FileName="CacheTest/UnitTestUpdateValue.cs" Line="16" Column="10" />
+      <File FileName="CacheTest/UnitTestUserAlgo.cs" Line="21" Column="40" />
+      <File FileName="CacheTest/UserCacheAPI.cs" Line="2" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CacheLibrary" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CacheTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

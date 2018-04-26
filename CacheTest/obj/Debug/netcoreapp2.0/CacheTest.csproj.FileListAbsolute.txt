@@ -1,0 +1,16 @@
+/Users/kishanvarma/Projects/CacheLibrary/CacheTest/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/kishanvarma/Projects/CacheLibrary/CacheTest/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/kishanvarma/Projects/CacheLibrary/CacheTest/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/kishanvarma/Projects/CacheLibrary/CacheTest/bin/Debug/netcoreapp2.0/CacheTest.deps.json
+/Users/kishanvarma/Projects/CacheLibrary/CacheTest/bin/Debug/netcoreapp2.0/CacheTest.runtimeconfig.json
+/Users/kishanvarma/Projects/CacheLibrary/CacheTest/bin/Debug/netcoreapp2.0/CacheTest.runtimeconfig.dev.json
+/Users/kishanvarma/Projects/CacheLibrary/CacheTest/bin/Debug/netcoreapp2.0/CacheTest.dll
+/Users/kishanvarma/Projects/CacheLibrary/CacheTest/bin/Debug/netcoreapp2.0/CacheTest.pdb
+/Users/kishanvarma/Projects/CacheLibrary/CacheTest/bin/Debug/netcoreapp2.0/CacheLibrary.dll
+/Users/kishanvarma/Projects/CacheLibrary/CacheTest/bin/Debug/netcoreapp2.0/CacheLibrary.pdb
+/Users/kishanvarma/Projects/CacheLibrary/CacheTest/obj/Debug/netcoreapp2.0/CacheTest.csprojResolveAssemblyReference.cache
+/Users/kishanvarma/Projects/CacheLibrary/CacheTest/obj/Debug/netcoreapp2.0/CacheTest.csproj.CoreCompileInputs.cache
+/Users/kishanvarma/Projects/CacheLibrary/CacheTest/obj/Debug/netcoreapp2.0/CacheTest.AssemblyInfoInputs.cache
+/Users/kishanvarma/Projects/CacheLibrary/CacheTest/obj/Debug/netcoreapp2.0/CacheTest.AssemblyInfo.cs
+/Users/kishanvarma/Projects/CacheLibrary/CacheTest/obj/Debug/netcoreapp2.0/CacheTest.dll
+/Users/kishanvarma/Projects/CacheLibrary/CacheTest/obj/Debug/netcoreapp2.0/CacheTest.pdb
